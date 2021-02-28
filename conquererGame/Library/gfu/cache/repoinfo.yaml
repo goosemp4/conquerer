@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-02-26T20:59:54.376-05:00
-  initializedAtString: 2021-02-26T20:59:54.376-05:00
+  lastUpdatedAtString: 2021-02-28T17:06:16.414-05:00
+  initializedAtString: 2021-02-28T17:06:16.414-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/martinmccarthy/conquerer.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: main
-    tracking: origin/main
+    name: temp
+    tracking: 
   currentConfigBranch:
-    name: main
+    name: temp
     remote:
-      name: origin
-      url: https://github.com/martinmccarthy/conquerer.git
-    trackingBranch: main
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/martinmccarthy/conquerer.git
